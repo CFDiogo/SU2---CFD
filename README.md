@@ -9,3 +9,5 @@
 3 - w/ the mesh file, also put the cfg file on your su2 directory. 
 
 4 - Run on terminal: SU2_CFD.exe JET_CONFIG.cfg
+
+5 - https://su2code.github.io/ to download the su2 software.
