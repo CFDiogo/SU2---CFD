@@ -4,3 +4,6 @@
 
 2 - I've used the Student Ansys mesher and exported in CGNS format.
 
+3 - w/ the mesh file, also put the cfg file on your su2 directory. 
+
+4 - Run on terminal: SU2_CFD.exe JET_CONFIG.cfg
